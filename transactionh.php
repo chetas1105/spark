@@ -62,20 +62,20 @@ thead{
 }
 </style>
 <body>
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-        <!-- Bank logo-->
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <!--  Bank Logo  -->
         <a class="navbar-brand" href="#"><span class="spark">Spark</span>Bank</a>
       
-        <!-- Nav bar -->
+        <!-- nav bar -->
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="aboutUs.html">About</a>
+            <a class="nav-link" href="aboutUs.php">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="hover.html">Contact Us</a>
+            <a class="nav-link" href="hover.php">Contact Us</a>
           </li>
           
       
@@ -94,7 +94,6 @@ thead{
           </li>
         </ul>
       </nav>
-
       <div class="container divStyle">
         <h2 class="text-center" id="headi">Transaction History</h2>
         

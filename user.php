@@ -85,38 +85,37 @@
 
 <body>
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <!-- Bank logo -->
-  <a class="navbar-brand" href="#"><span class="spark">Spark</span>Bank</a>
-
-  <!-- Nav bar -->
-  <ul class="navbar-nav ml-auto">
-    <li class="nav-item">
-      <a class="nav-link" href="index.html">Home</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="aboutUs.html">About</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="hover.html">Contact Us</a>
-    </li>
-    
-
-    <!-- Dropdown -->
-    <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-        Transction
-      </a>
-      <div class="dropdown-menu">
-        <a class="dropdown-item" href="transact.php">Make a Transaction</a>
-        <a class="dropdown-item" href="transactionh.php">Transaction history</a>
-      </div>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="user.php">User Details</a>
-    </li>
-  </ul>
-</nav>
-
+        <!--  Bank Logo  -->
+        <a class="navbar-brand" href="#"><span class="spark">Spark</span>Bank</a>
+      
+        <!-- nav bar -->
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.php">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="aboutUs.php">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="hover.php">Contact Us</a>
+          </li>
+          
+      
+          <!-- Dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              Transction
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="transact.php">Make a Transaction</a>
+              <a class="dropdown-item" href="transactionh.php">Transaction history</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="user.php">User Details</a>
+          </li>
+        </ul>
+      </nav>
 <!-- table -->
 <div class="container">
   <div class="con">

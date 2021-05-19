@@ -25,9 +25,9 @@
             </div>
             <div class="navcon">
                 <ui class="nav_bar">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="aboutUs.html">About</a></li>
-                    <li><a href="hover.html">Contact Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="aboutUs.php">About</a></li>
+                    <li><a href="hover.php">Contact Us</a></li>
                 </ui>
             </div>
 
